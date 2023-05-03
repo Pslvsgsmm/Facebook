@@ -1,5 +1,9 @@
 This is java class
 Which is related to git class
 i am adding new line to this file.....
+<<<<<<< HEAD
 This file is in master branch...
+=======
+This line is development branch....
+>>>>>>> development
 
